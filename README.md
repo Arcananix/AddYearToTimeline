@@ -20,6 +20,7 @@ With the terran format, the date use a standard format displaying the month and 
 | UseHBSFormat | **Boolean** *true/false*. Default is *true*.<br>Use HBS vanilla format adding the year.<br>The week number is calculated based on the number of *WeeksPerYear* setting. |
 | StartingYear | **int** Default is 3025.<br>The base value used to calculate the year. |
 | WeeksPerYear | **int** Default is 52.<br>The base value used to calculate the week in the *HBSFormat*.<br>Does not affect the *TerranFormat*. |
+| PlayDayEndPing | **Boolean** *true/false*. Default is *false*.<br>Use to play the day ending ping sound or not.|
 ## Requirements
 ** Warning: Uses the experimental BTML mod loader and ModTek that might change, come here again to check for updates **
 * Install [BattleTechModLoader](https://github.com/Mpstark/BattleTechModLoader/releases) using the [instructions here](https://github.com/Mpstark/BattleTechModLoader)
@@ -27,6 +28,8 @@ With the terran format, the date use a standard format displaying the month and 
 ## Installation
 Extract/Copy the AddYearToTimeline folder to the mods directory of Battletech.
 If you do not have a mods folder in the Battletech folder, please refer to the requirements installations first for details.
+## Forked from
+* [Zathoth](https://github.com/Zathoth) for the original mod in which this one was forked from 
 ## Special Thanks
 This mod would not be possible without all tools and mods provided for the community by the following persons. Special thanks to:
 * [Pardeike](https://github.com/pardeike) for **Harmony**.

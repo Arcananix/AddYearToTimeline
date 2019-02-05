@@ -1,6 +1,7 @@
 ﻿{
-	"UseTerranTime": false,
-	"UseHBSFormat": true,
-	"StartingYear": 3025,
-    "WeeksPerYear": 52
+  "UseTerranTime": false,
+  "UseHBSFormat": true,
+  "StartingYear": 3025,
+  "WeeksPerYear": 52,
+  "PlayDayEndPing": false
 }

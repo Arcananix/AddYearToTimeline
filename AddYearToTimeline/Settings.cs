@@ -10,6 +10,7 @@ namespace AddYearToTimeline
         public bool UseHBSFormat = true;
         public int StartingYear = 3025;
         public int WeeksPerYear = 52;
+        public bool PlayDayEndPing = false;
 
         public bool Logging = true;
 
